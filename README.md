@@ -5,7 +5,7 @@
 <a href="#"><img title="BOT GFI" src="https://img.shields.io/badge/BOT GFI-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/XP-TN"><img title="Author" src="https://img.shields.io/badge/Author-XP-TN-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/gapfinderindonesia"><img title="Author" src="https://img.shields.io/badge/Author-BOT-GFI-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/gapfinderindonesia/followers"><img title="Followers" src="https://img.shields.io/github/followers/XP-TN?color=blue&style=flat-square"></a>
