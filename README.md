@@ -9,9 +9,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/gapfinderindonesia/followers"><img title="Followers" src="https://img.shields.io/github/followers/XP-TN?color=blue&style=flat-square"></a>
-<a href="https://github.com/gapfinderindonesia/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/XP-TN/XP-TNNBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/gapfinderindonesia/network/members"><img title="Forks" src="http://img.shields.io/github/forks/XP-TN/XP-TNNBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/gapfinderindonesia/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/XP-TN/XP-TNNBOT?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/gapfinderindonesia/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/XP-TN/XP-BOT-GFI?color=red&style=flat-square"></a>
+<a href="https://github.com/gapfinderindonesia/network/members"><img title="Forks" src="http://img.shields.io/github/forks/gapfinderindonesia?color=red&style=flat-square"></a>
+<a href="https://github.com/gapfinderindonesia/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/gapfinderindonesia?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXP-TN%2FXP-GFI BOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
@@ -23,7 +23,7 @@
 ```
 
 ```bash
->Command BOT $
+>Command BOT /
 ```
 
 ## Install the dependencies:
