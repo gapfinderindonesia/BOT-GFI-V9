@@ -982,19 +982,23 @@ async function starts() {
 						reply('❌ *ERROR* ❌')
 					}
 					break
-					case 'nekopoi':
+				case 'nekopoi':
 					try {
 						if (!isNsfw) return reply('❌ *FALSE* ❌')
-					if (isBanned) return reply(mess.only.benned)
-					client.sendMessage(from, nekopoi(prefix) , text, { quoted: mek })
+						if (isBanned) return reply(mess.only.benned)
+						client.sendMessage(from, nekopoi(prefix) , text, { quoted: mek })
+					} catch(e){
+						console.log(`Error :`, color(e,'red'))
+						reply('❌ *ERROR* ❌')
+					}
 					break
-                           case 'nsfwblowjob':
+				case 'nsfwblowjob':
 				    try {
-						if (!isNsfw) return reply('❌ *FALSE* ❌')
+						if (!isNsfw) return reply('❌ *FALSE* ❌');
 						res = await fetchJson(`https://tobz-api.herokuapp.com/api/nsfwblowjob`, {method: 'get'})
-						buffer = await getBuffer(res.result)
+						buffer = await getBuffer(res.result);
 						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Jangan jadiin bahan buat comli om'})
-					} catch (e) {
+					}catch(e) {
 						console.log(`Error :`, color(e,'red'))
 						reply('❌ *ERROR* ❌')
 					}

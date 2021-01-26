@@ -21,7 +21,7 @@
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
-    "@kagchi/kag-api": "^1.5.5",
+    "@kagchi/kag-api": "^1.1.1",
     "async": "^2.4.1",
     "axios": "^0.21.0",
     "cfonts": "^2.9.0",
@@ -40,7 +40,6 @@
     "spinnies": "^0.5.1",
     "tiktok-scraper": "^1.4.7"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mhankbarbar/termux-wabot.git"
